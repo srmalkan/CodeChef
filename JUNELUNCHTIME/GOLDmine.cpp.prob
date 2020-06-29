@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: GOLDmine","srcPath":"c:\\Users\\Smit\\Documents\\GitHub\\CodeChef\\JUNELUNCHTIME\\GOLDmine.cpp","tests":[{"id":1593275436474,"input":"2\n2\n30 2 3\n45 9 1\n3\n10 1 2\n20 2 2\n30 3 2","output":""}],"timeLimit":3000,"url":"c:\\Users\\Smit\\Documents\\GitHub\\CodeChef\\JUNELUNCHTIME\\GOLDmine.cpp"}

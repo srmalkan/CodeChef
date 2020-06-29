@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: maximumAND","srcPath":"c:\\Users\\Smit\\Documents\\GitHub\\CodeChef\\JUNELUNCHTIME\\maximumAND.cpp","tests":[{"id":1593270872394,"input":"2\n5 2\n8 7 7 7 7\n4 1\n3 4 5 1","output":""}],"timeLimit":3000,"url":"c:\\Users\\Smit\\Documents\\GitHub\\CodeChef\\JUNELUNCHTIME\\maximumAND.cpp"}
